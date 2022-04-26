@@ -15,7 +15,7 @@ function Contact() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Enviar Mail
+              Contactame.
             </a>
           </Email>
         </div>

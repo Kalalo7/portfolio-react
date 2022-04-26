@@ -13,23 +13,23 @@ const Header = ({ toggle }) => {
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects" smooth={true}>
-            Projects
+            Proyectos
           </NavLink>
           <NavLink className="menu-item" to="about" smooth={true}>
-            About
+            Sobre mi
           </NavLink>
           <NavLink className="menu-item" to="contact" smooth={true}>
-            Contact
+            Contacto
           </NavLink>
         </NavMenu>
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/gurupawar/"
+            href="https://martinfauciprogramacion.on.drv.tw/pagina%20web%20personal/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Resume
+            Mi CV
           </a>
         </NavBtn>
         <Bars onClick={toggle} />

@@ -23,10 +23,10 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm YourName</h1>
-            <h5>Frontend Developer</h5>
+            <h1>Hola! Soy Martin Fauci</h1>
+            <h5>Desarrollador Front-End y Mobile</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+              Me encanta crear y diseñar cosas hermosas y sencillas. Adoro hacer esto!
             </p>
           </HeroLeft>
           <HeroRight>
@@ -38,7 +38,7 @@ function Hero() {
         </HeroWrapper>
         <ScrollDown to="projects">
           <ScrollLink>
-            Scroll down
+            Seguí bajando para saber mas! 
             <img
               src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/scroll-down.svg"
               alt="scroll-down"

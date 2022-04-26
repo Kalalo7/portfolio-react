@@ -67,7 +67,7 @@ function Dropdown({ isOpen, toggle }) {
           to="projects"
           smooth={true}
         >
-          Projects
+          Proyectos
         </NavLink>
         <NavLink
           onClick={toggle}
@@ -75,7 +75,7 @@ function Dropdown({ isOpen, toggle }) {
           to="about"
           smooth={true}
         >
-          About
+          Sobre mi
         </NavLink>
         <NavLink
           onClick={toggle}
@@ -83,17 +83,17 @@ function Dropdown({ isOpen, toggle }) {
           to="contact"
           smooth={true}
         >
-          Contact
+          Contacto
         </NavLink>
       </NavMenu>
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://github.com/gurupawar/"
+          href="https://github.com/Kalalo7/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          MI CV
         </a>
       </NavBtn>
     </SiderBar>

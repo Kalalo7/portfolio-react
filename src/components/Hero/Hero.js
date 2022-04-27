@@ -31,7 +31,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
+              src="https://www.svgrepo.com/show/137617/avatar.svg"
               alt="man-svgrepo"
             />
           </HeroRight>

@@ -1,12 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
+    img: "https://martinfauciprogramacion.on.drv.tw/CuchiBot/banner.jpg",
+    title: "CuchiBot",
+    description: "Cuchi CaldeBot, opina sobre cualquier cosa",
     tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/Kalalo7/CuchiBot",
+    demo_url: "https://martinfauciprogramacion.on.drv.tw/CuchiBot/cuchibot.html",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",

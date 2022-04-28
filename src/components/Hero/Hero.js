@@ -24,9 +24,9 @@ function Hero() {
         <HeroWrapper>
           <HeroLeft>
             <h1>Hola! Soy Martin Fauci</h1>
-            <h5>Desarrollador Front-End y Mobile</h5>
+            <h5>Desarrollador Front-End y Mobile (Kotlin)</h5>
             <p>
-              Me encanta crear y diseñar cosas hermosas y sencillas. Adoro hacer esto!
+              Me encanta crear y diseñar cosas hermosas y sencillas (pero sin perder el estilo). Adoro hacer esto!
             </p>
           </HeroLeft>
           <HeroRight>

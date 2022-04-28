@@ -21,7 +21,8 @@ function About() {
           <div className="AboutBio">
             Hola! Mi nombre es <strong>Martin Fauci</strong> y soy un programador junior
             en busqueda de su primer experiencia laboral en el mundo de las tecnologías de la 
-            información y comunicación. 
+            información y comunicación. Estoy continuamente en proceso de aprendizaje de nuevas tecnologías
+            y perfeccionando las que ya conozco. 
           </div>
           <div className="AboutBio tagline2">
             Estas son las tecnologías con las que me desenvuelvo.

@@ -11,8 +11,7 @@ export const ProjectList = [
   {
     img: "https://martinfauciprogramacion.on.drv.tw/rodribot/banner.png",
     title: "RodriBot G.F.",
-    description:
-      "RodriBot G.F de Undinamo.com te opina sobre la película que quieras",
+    description: "RodriBot G.F de Undinamo.com te opina sobre la película que quieras",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/Kalalo7/RodriBot",
     demo_url: "https://martinfauciprogramacion.on.drv.tw/rodribot/rodribot.html",
@@ -22,8 +21,8 @@ export const ProjectList = [
     title: "Portfolio",
     description: "Este Portfolio hecho como trabajo integrador final para Argentina Programa",
     tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    github_url: "https://github.com/Kalalo7/portfolio-react",
+    demo_url: "https://portfolio-react-rho-two.vercel.app/",
   },
   {
     img: "https://img001.prntscr.com/file/img001/QCdGJKwfSn6-yUbe16oNVg.png",

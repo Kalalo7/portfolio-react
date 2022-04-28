@@ -24,7 +24,7 @@ function About() {
             información y comunicación. 
           </div>
           <div className="AboutBio tagline2">
-            Estas son las tecnologías en las que me desenvuelvo.
+            Estas son las tecnologías con las que me desenvuelvo.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (

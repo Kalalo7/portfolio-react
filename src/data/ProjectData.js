@@ -38,35 +38,43 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
+    img: "https://www.svgrepo.com/show/373669/html.svg",
     name: "HTML",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
+    img: "https://www.svgrepo.com/show/153993/css.svg",
     name: "CSS",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
+    img: "https://www.svgrepo.com/show/349419/javascript.svg",
     name: "JavaScript",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
+    img: "https://www.svgrepo.com/show/355190/reactjs.svg",
     name: "ReactJS",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
+    img: "https://www.svgrepo.com/show/353498/bootstrap.svg",
     name: "Bootstrap",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
+    img: "https://www.svgrepo.com/show/373882/ng-component-scss.svg",
     name: "Scss",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
+    img: "https://www.svgrepo.com/show/353782/git-icon.svg",
     name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
+    img: "https://www.svgrepo.com/show/241838/responsive.svg",
+    name: "Responsive",
+  },
+  {
+    img: "https://www.svgrepo.com/show/303617/kotlin-1-logo.svg",
+    name: "Kotlin",
+  },
+  {
+    img: "https://www.svgrepo.com/show/354792/android.svg",
     name: "Responsive",
   },
 ];

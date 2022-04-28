@@ -58,10 +58,6 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "https://www.svgrepo.com/show/373882/ng-component-scss.svg",
-    name: "Scss",
-  },
-  {
     img: "https://www.svgrepo.com/show/353782/git-icon.svg",
     name: "Git",
   },
@@ -75,6 +71,6 @@ export const stackList = [
   },
   {
     img: "https://www.svgrepo.com/show/354792/android.svg",
-    name: "Responsive",
+    name: "Android",
   },
 ];
